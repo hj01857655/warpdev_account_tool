@@ -8,7 +8,7 @@
 
 ## 📥 快速下载
 
-**🎉 最新版本: v2.0**
+**🎉 最新版本: v2.1.3**
 
 - 💾 **直接下载**: [WarpAccountTool.exe](https://github.com/hj01857655/warpdev_account_tool/releases/latest/download/WarpAccountTool.exe)
 - 📋 **Release 页面**: [查看所有版本](https://github.com/hj01857655/warpdev_account_tool/releases)
@@ -246,7 +246,15 @@ python main.py
 
 ## 📅 版本更新
 
-### v2.0 (2025-10-10) - 最新版本
+### v2.1.3 (2025-10-29) - 最新版本
+- 🎯 **优化**: 迁移至 uv 包管理器，依赖安装速度大幅提升
+- 💬 **新增**: QQ 群快捷加入功能，方便用户交流反馈
+- 🧹 **恢复**: 账号清理功能，支持批量管理超额账号
+- ⚡ **性能**: 从 PyInstaller 切换至 Nuitka，启动速度提升 50%+
+- 🐛 **修复**: 修复数据管理器语法错误和 UI 初始化问题
+- 🔧 **优化**: 禁用日志系统，减少资源占用
+
+### v2.0 (2025-10-10)
 - 🎆 **新增**: 现代化 GUI 界面设计
 - 🛡️ **优化**: 提升程序稳定性和性能
 - 🔧 **修复**: 修复多个已知问题
