@@ -16,7 +16,7 @@
 
 ## 💬 社区交流
 
-- 🐥 **QQ 群**: [608248908](https://qm.qq.com/q/amKj8q1jIA)
+- 🐥 **QQ 群**: [Warp AI Terminal 交流群](https://qm.qq.com/q/SQeM0z5sMG) | [AI CODE IDE 交流群](https://qm.qq.com/q/uFEqS5k304)
 - 📢 **Telegram 频道**: [@warp5215](https://t.me/warp5215)
 - 💬 **Telegram 聊天**: [@warp1215](https://t.me/warp1215)
 - 🔗 **GitHub**: [@hj01857655](https://github.com/hj01857655/)
