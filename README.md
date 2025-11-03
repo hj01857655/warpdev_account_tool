@@ -128,7 +128,6 @@ uv run python main.py
 # 或直接使用 python
 python main.py
 ```
-```
 
 ## 主要功能介绍
 
