@@ -8,7 +8,7 @@
 
 ## 📥 快速下载
 
-**🎉 最新版本: v2.1.4**
+**🎉 最新版本: v2.1.5**
 
 - 💾 **直接下载**: [WarpAccountTool.exe](https://github.com/hj01857655/warpdev_account_tool/releases/latest/download/WarpAccountTool.exe)
 - 📋 **Release 页面**: [查看所有版本](https://github.com/hj01857655/warpdev_account_tool/releases)
@@ -16,7 +16,7 @@
 
 ## 💬 社区交流
 
-- 🐥 **QQ 群**: [Warp AI Terminal 交流群](https://qm.qq.com/q/SQeM0z5sMG) | [AI CODE IDE 交流群](https://qm.qq.com/q/uFEqS5k304)
+- 🐥 **问题反馈QQ群**: [Warp AI Terminal 交流群](https://qm.qq.com/q/G9JBpsUiAu) | [AI CODE IDE 交流群](https://qm.qq.com/q/hQDFVP0TW8)
 - 📢 **Telegram 频道**: [@warp5215](https://t.me/warp5215)
 - 💬 **Telegram 聊天**: [@warp1215](https://t.me/warp1215)
 - 🔗 **GitHub**: [@hj01857655](https://github.com/hj01857655/)
@@ -115,7 +115,16 @@
 
 ## 📝 版本更新
 
-### v2.1.4 (2025-11-03) - 最新版本
+### v2.1.5 (2025-11-06) - 最新版本
+- 🎨 **界面优化**: 复选框样式改进，使用Unicode字符（☐/☑）替代原生QCheckBox
+- 🐛 **修复**: 修复导出账号功能 - 筛选后选中导出只导出可见账号
+- 🐛 **修复**: 修复清理账号功能 - 清理额度用完账户预览和执行逻辑一致
+- 🐛 **修复**: 修复导出令牌不一致 - 支持优先导出选中账户
+- 🐛 **修复**: 修复默认选中当前账号 - 避免误操作当前账号
+- ✨ **优化**: 筛选后自动重置全选状态，避免状态混乱
+- 🔧 **改进**: 统一批量操作行为，智能处理可见行
+
+### v2.1.4 (2025-11-03)
 - ✨ **新增**: 在线更新功能
   - 启动时自动检查 GitHub Releases 最新版本
   - 精美的更新提示对话框，显示版本对比和更新日志
